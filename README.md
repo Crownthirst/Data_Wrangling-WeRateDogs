@@ -1,4 +1,5 @@
 # Data_Wrangling-WeRateDogs
+![dog-rates-social](https://user-images.githubusercontent.com/108200325/185449543-bfb0cd1f-1e8d-4466-8605-fa57009daa41.jpg)
 ### Introduction
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this project I used python and it's libraries to gather data from a variety of sources and in various formats to assess the data's quality and tidiness issues in the jupyter notebook found in this repository.
@@ -9,8 +10,8 @@ The wrangling process and resulting insights are documented in the Wrangle Repor
 - Assessing data
 - Cleaning data
 - Storing data
-- Analyzing and reporting data
-- Reporting
+- Analyzing and
+- Reporting Data
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Packages used
 - Pandas
