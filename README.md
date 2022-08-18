@@ -2,7 +2,7 @@
 ### Introduction
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this project I used python and it's libraries to gather data from a variety of sources and in various formats to assess the data's quality and tidiness issues in the jupyter notebook found in this repository.
-The wrangling process was documented in the Wrangle Report and Act Report also found in this repository.
+The wrangling process and resulting insights are documented in the Wrangle Report and Act Report also found in this repository.
 
 # Project Steps Overview
 - Gathering data
